@@ -1,11 +1,12 @@
 # Retail-Performance-Dashboard
 This project is a comprehensive analysis of transaction data from a UK-based online retail store between 2009 and 2011. It combines data engineering, analytics, and visualization techniques to uncover valuable insights into sales trends, customer behavior, product performance, and regional sales performance.
 
-Project Objectives
+Project Objectives :
 To analyze transaction data and extract actionable insights for decision-making.
 To create a visually engaging dashboard using Power BI for effective storytelling.
 To demonstrate the integration of data cleaning, ETL processes, and database management for analytics.
-Dataset
+Dataset 
+
 The dataset was sourced from Kaggle and contains:
 
 541,912 rows of detailed transaction records.
