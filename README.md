@@ -1,14 +1,14 @@
 # Retail-Performance-Dashboard
 This project is a comprehensive analysis of transaction data from a UK-based online retail store between 2009 and 2011. It combines data engineering, analytics, and visualization techniques to uncover valuable insights into sales trends, customer behavior, product performance, and regional sales performance.
 
-# Project Objectives :
+### Project Objectives :
 To analyze transaction data and extract actionable insights for decision-making.
 
 To create a visually engaging dashboard using Power BI for effective storytelling.
 
 To demonstrate the integration of data cleaning, ETL processes, and database management for analytics.
 
-# Dataset 
+### Dataset 
 
 The dataset was sourced from Kaggle and contains:
 
@@ -18,21 +18,21 @@ Various product categories, including home decor, gifts, and seasonal items.
 
 Data primarily from the United Kingdom, along with other regions.
 
-# Tools and Technologies
+### Tools and Technologies
 Power BI: For creating an interactive and detailed dashboard.
 
 Python: For performing ETL (Extract, Transform, Load) operations and cleaning the dataset.
 
 MySQL: For solving key performance indicators (KPIs) and managing the database.
 
-# Methodology
+## Methodology
 
-# Data Preparation:
+### Data Preparation:
 
 The dataset, originally in Excel format, was transformed using Python scripts.
 Some parts of the dataset were cleaned to handle missing or inconsistent data.
 
-# ETL and KPI Analysis:
+### ETL and KPI Analysis:
 
 Python was used for ETL processes to prepare data for analysis.
 Key KPIs were calculated using MySQL, ensuring robust database operations.
