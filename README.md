@@ -57,7 +57,8 @@ Product Performance: Bestsellers and underperforming products are highlighted fo
 
 Regional Insights: Sales performance is broken down by regions, showing significant variations.
 
-Challenges Faced :
+### Challenges Faced :
+
 Managing a large dataset with over half a million rows.
 
 Cleaning and transforming the dataset for meaningful analysis.
