@@ -65,7 +65,7 @@ Cleaning and transforming the dataset for meaningful analysis.
 Combining multiple tools (Python, MySQL, and Power BI) seamlessly.
 Outcomes
 
-A comprehensive Power BI dashboard that presents actionable insights in an easy-to-understand format.
-Improved understanding of customer and product dynamics in the retail space.
-Experience in integrating data engineering and visualization tools for real-world analytics.
+## A comprehensive Power BI dashboard that presents actionable insights in an easy-to-understand format.
+## Improved understanding of customer and product dynamics in the retail space.
+## Experience in integrating data engineering and visualization tools for real-world analytics.
 
