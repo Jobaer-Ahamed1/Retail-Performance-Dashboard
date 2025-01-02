@@ -1,5 +1,5 @@
 # Retail-Performance-Dashboard
-This project is a comprehensive analysis of transaction data from a UK-based online retail store between 2010 and 2011. It combines data engineering, analytics, and visualization techniques to uncover valuable insights into sales trends, customer behavior, product performance, and regional sales performance.
+This project is a comprehensive analysis of transaction data from a UK-based online retail store between 2009 and 2011. It combines data engineering, analytics, and visualization techniques to uncover valuable insights into sales trends, customer behavior, product performance, and regional sales performance.
 
 Project Objectives
 To analyze transaction data and extract actionable insights for decision-making.
